@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F1E8"/>
+  <rect width="1080" height="16" fill="#F6C945"/>
+  <g opacity=".35" fill="#D8D2C5"><circle cx="40" cy="150" r="1.5"/><circle cx="138" cy="150" r="1.5"/><circle cx="236" cy="150" r="1.5"/><circle cx="334" cy="150" r="1.5"/><circle cx="432" cy="150" r="1.5"/><circle cx="530" cy="150" r="1.5"/><circle cx="628" cy="150" r="1.5"/><circle cx="726" cy="150" r="1.5"/><circle cx="824" cy="150" r="1.5"/><circle cx="922" cy="150" r="1.5"/><circle cx="1020" cy="150" r="1.5"/><circle cx="40" cy="420" r="1.5"/><circle cx="138" cy="420" r="1.5"/><circle cx="236" cy="420" r="1.5"/><circle cx="334" cy="420" r="1.5"/><circle cx="432" cy="420" r="1.5"/><circle cx="530" cy="420" r="1.5"/><circle cx="628" cy="420" r="1.5"/><circle cx="726" cy="420" r="1.5"/><circle cx="824" cy="420" r="1.5"/><circle cx="922" cy="420" r="1.5"/><circle cx="1020" cy="420" r="1.5"/><circle cx="40" cy="690" r="1.5"/><circle cx="138" cy="690" r="1.5"/><circle cx="236" cy="690" r="1.5"/><circle cx="334" cy="690" r="1.5"/><circle cx="432" cy="690" r="1.5"/><circle cx="530" cy="690" r="1.5"/><circle cx="628" cy="690" r="1.5"/><circle cx="726" cy="690" r="1.5"/><circle cx="824" cy="690" r="1.5"/><circle cx="922" cy="690" r="1.5"/><circle cx="1020" cy="690" r="1.5"/><circle cx="40" cy="960" r="1.5"/><circle cx="138" cy="960" r="1.5"/><circle cx="236" cy="960" r="1.5"/><circle cx="334" cy="960" r="1.5"/><circle cx="432" cy="960" r="1.5"/><circle cx="530" cy="960" r="1.5"/><circle cx="628" cy="960" r="1.5"/><circle cx="726" cy="960" r="1.5"/><circle cx="824" cy="960" r="1.5"/><circle cx="922" cy="960" r="1.5"/><circle cx="1020" cy="960" r="1.5"/></g>
+  <text x="72" y="76" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#101B35" text-anchor="start" letter-spacing="4"><tspan x="72" dy="0">MARTECH IN PRACTICE</tspan></text>
+  <rect x="72" y="99" width="70" height="7" rx="3" fill="#F6C945" stroke="none" stroke-width="0" />
+  <text x="1008" y="76" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#101B35" text-anchor="end" ><tspan x="1008" dy="0">07 / 10</tspan></text>
+  
+  <text x="72" y="220" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800" fill="#101B35" text-anchor="start" ><tspan x="72" dy="0">Build when the</tspan><tspan x="72" dy="72">difference matters.</tspan></text>
+  <text x="76" y="370" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="76" dy="0">Internal development can be the right choice.</tspan></text>
+  <rect x="72" y="450" width="288" height="480" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="126" cy="510" r="30" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="126" y="520" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="126" dy="0">01</tspan></text>
+  <text x="106" y="590" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="106" dy="0">Unique</tspan><tspan x="106" dy="38">workflow</tspan></text>
+  <text x="106" y="670" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="106" dy="0">Your process</tspan><tspan x="106" dy="34">is genuinely</tspan><tspan x="106" dy="34">different from</tspan><tspan x="106" dy="34">the standard</tspan><tspan x="106" dy="34">market pattern.</tspan></text>
+  <rect x="396" y="450" width="288" height="480" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="450" cy="510" r="30" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="450" y="520" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="450" dy="0">02</tspan></text>
+  <text x="430" y="590" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="430" dy="0">Competitive</tspan><tspan x="430" dy="38">advantage</tspan></text>
+  <text x="430" y="670" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="430" dy="0">The tool creates</tspan><tspan x="430" dy="34">value others</tspan><tspan x="430" dy="34">cannot easily</tspan><tspan x="430" dy="34">replicate.</tspan></text>
+  <rect x="720" y="450" width="288" height="480" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="774" cy="510" r="30" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="774" y="520" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="774" dy="0">03</tspan></text>
+  <text x="754" y="590" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="754" dy="0">No sensible</tspan><tspan x="754" dy="36">off-the-shelf fit</tspan></text>
+  <text x="754" y="670" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="754" dy="0">Existing products</tspan><tspan x="754" dy="34">cannot reasonably</tspan><tspan x="754" dy="34">meet the need</tspan><tspan x="754" dy="34">without painful</tspan><tspan x="754" dy="34">workarounds.</tspan></text>
+  <rect x="72" y="990" width="936" height="170" rx="20" fill="#F6C945" stroke="none" stroke-width="0" />
+  <text x="108" y="1055" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" fill="#101B35" text-anchor="start" ><tspan x="108" dy="0">Build the part that makes you different.</tspan></text>
+  <text x="108" y="1110" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#101B35" text-anchor="start" ><tspan x="108" dy="0">Keep the scope narrow. Assign an owner. Fund maintenance.</tspan></text>
+
+  <line x1="72" y1="1260" x2="1008" y2="1260" stroke="#D8D2C5" stroke-width="2"  stroke-linecap="round"/>
+  <text x="72" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#626B7B" text-anchor="start" letter-spacing="1"><tspan x="72" dy="0">ANANTH SRIDEV  •  MARKETING TECHNOLOGY</tspan></text>
+  <text x="1008" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#101B35" text-anchor="end" letter-spacing="1"><tspan x="1008" dy="0">BUILD  /  BUY  /  INTEGRATE</tspan></text>
+  </svg>

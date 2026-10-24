@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F1E8"/>
+  <rect width="1080" height="16" fill="#F6C945"/>
+  <g opacity=".35" fill="#D8D2C5"><circle cx="40" cy="150" r="1.5"/><circle cx="138" cy="150" r="1.5"/><circle cx="236" cy="150" r="1.5"/><circle cx="334" cy="150" r="1.5"/><circle cx="432" cy="150" r="1.5"/><circle cx="530" cy="150" r="1.5"/><circle cx="628" cy="150" r="1.5"/><circle cx="726" cy="150" r="1.5"/><circle cx="824" cy="150" r="1.5"/><circle cx="922" cy="150" r="1.5"/><circle cx="1020" cy="150" r="1.5"/><circle cx="40" cy="420" r="1.5"/><circle cx="138" cy="420" r="1.5"/><circle cx="236" cy="420" r="1.5"/><circle cx="334" cy="420" r="1.5"/><circle cx="432" cy="420" r="1.5"/><circle cx="530" cy="420" r="1.5"/><circle cx="628" cy="420" r="1.5"/><circle cx="726" cy="420" r="1.5"/><circle cx="824" cy="420" r="1.5"/><circle cx="922" cy="420" r="1.5"/><circle cx="1020" cy="420" r="1.5"/><circle cx="40" cy="690" r="1.5"/><circle cx="138" cy="690" r="1.5"/><circle cx="236" cy="690" r="1.5"/><circle cx="334" cy="690" r="1.5"/><circle cx="432" cy="690" r="1.5"/><circle cx="530" cy="690" r="1.5"/><circle cx="628" cy="690" r="1.5"/><circle cx="726" cy="690" r="1.5"/><circle cx="824" cy="690" r="1.5"/><circle cx="922" cy="690" r="1.5"/><circle cx="1020" cy="690" r="1.5"/><circle cx="40" cy="960" r="1.5"/><circle cx="138" cy="960" r="1.5"/><circle cx="236" cy="960" r="1.5"/><circle cx="334" cy="960" r="1.5"/><circle cx="432" cy="960" r="1.5"/><circle cx="530" cy="960" r="1.5"/><circle cx="628" cy="960" r="1.5"/><circle cx="726" cy="960" r="1.5"/><circle cx="824" cy="960" r="1.5"/><circle cx="922" cy="960" r="1.5"/><circle cx="1020" cy="960" r="1.5"/></g>
+  <text x="72" y="76" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#101B35" text-anchor="start" letter-spacing="4"><tspan x="72" dy="0">MARTECH IN PRACTICE</tspan></text>
+  <rect x="72" y="99" width="70" height="7" rx="3" fill="#F6C945" stroke="none" stroke-width="0" />
+  <text x="1008" y="76" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#101B35" text-anchor="end" ><tspan x="1008" dy="0">05 / 10</tspan></text>
+  
+  <text x="72" y="220" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" fill="#101B35" text-anchor="start" ><tspan x="72" dy="0">Every build has an</tspan><tspan x="72" dy="70">invisible cost.</tspan></text>
+  <text x="76" y="370" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="76" dy="0">Your team's attention is finite.</tspan></text>
+  <rect x="72" y="440" width="936" height="150" rx="20" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <text x="108" y="490" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#626B7B" text-anchor="start" letter-spacing="2"><tspan x="108" dy="0">TEAM CAPACITY</tspan></text>
+  <rect x="108" y="520" width="820" height="34" rx="16" fill="#E2DED4" stroke="none" stroke-width="0" />
+  <rect x="108" y="520" width="530" height="34" rx="16" fill="#2864D8" stroke="none" stroke-width="0" />
+  <rect x="638" y="520" width="290" height="34" rx="16" fill="#00A88F" stroke="none" stroke-width="0" />
+  <text x="108" y="630" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#2864D8" text-anchor="start" ><tspan x="108" dy="0">65%</tspan></text>
+  <text x="108" y="674" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#626B7B" text-anchor="start" ><tspan x="108" dy="0">Building &amp; maintaining</tspan></text>
+  <text x="638" y="630" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#00A88F" text-anchor="start" ><tspan x="638" dy="0">35%</tspan></text>
+  <text x="638" y="674" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#626B7B" text-anchor="start" ><tspan x="638" dy="0">New value</tspan></text>
+  <text x="76" y="770" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="76" dy="0">What could that time have improved instead?</tspan></text>
+  <rect x="72" y="830" width="285" height="230" rx="18" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="118" cy="882" r="20" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="118" y="891" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="118" dy="0">1</tspan></text>
+  <text x="105" y="944" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="105" dy="0">Customer</tspan><tspan x="105" dy="32">onboarding</tspan></text>
+  <text x="105" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="105" dy="0">Fewer friction</tspan><tspan x="105" dy="27">points</tspan></text>
+  <rect x="398" y="830" width="285" height="230" rx="18" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="444" cy="882" r="20" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="444" y="891" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="444" dy="0">2</tspan></text>
+  <text x="431" y="944" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="431" dy="0">Better</tspan><tspan x="431" dy="32">analytics</tspan></text>
+  <text x="431" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="431" dy="0">Clearer business</tspan><tspan x="431" dy="27">decisions</tspan></text>
+  <rect x="724" y="830" width="284" height="230" rx="18" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <circle cx="770" cy="882" r="20" fill="#F6C945" stroke="none" stroke-width="0"/>
+  <text x="770" y="891" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="770" dy="0">3</tspan></text>
+  <text x="757" y="944" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="757" dy="0">Unique</tspan><tspan x="757" dy="32">workflows</tspan></text>
+  <text x="757" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="757" dy="0">Work competitors</tspan><tspan x="757" dy="27">can't copy</tspan></text>
+  <text x="76" y="1140" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#101B35" text-anchor="start" ><tspan x="76" dy="0">The hidden cost is what stops moving while the team maintains a clone.</tspan></text>
+
+  <line x1="72" y1="1260" x2="1008" y2="1260" stroke="#D8D2C5" stroke-width="2"  stroke-linecap="round"/>
+  <text x="72" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#626B7B" text-anchor="start" letter-spacing="1"><tspan x="72" dy="0">ANANTH SRIDEV  •  MARKETING TECHNOLOGY</tspan></text>
+  <text x="1008" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#101B35" text-anchor="end" letter-spacing="1"><tspan x="1008" dy="0">BUILD  /  BUY  /  INTEGRATE</tspan></text>
+  </svg>

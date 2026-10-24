@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F1E8"/>
+  <rect width="1080" height="16" fill="#F6C945"/>
+  <g opacity=".35" fill="#D8D2C5"><circle cx="40" cy="150" r="1.5"/><circle cx="138" cy="150" r="1.5"/><circle cx="236" cy="150" r="1.5"/><circle cx="334" cy="150" r="1.5"/><circle cx="432" cy="150" r="1.5"/><circle cx="530" cy="150" r="1.5"/><circle cx="628" cy="150" r="1.5"/><circle cx="726" cy="150" r="1.5"/><circle cx="824" cy="150" r="1.5"/><circle cx="922" cy="150" r="1.5"/><circle cx="1020" cy="150" r="1.5"/><circle cx="40" cy="420" r="1.5"/><circle cx="138" cy="420" r="1.5"/><circle cx="236" cy="420" r="1.5"/><circle cx="334" cy="420" r="1.5"/><circle cx="432" cy="420" r="1.5"/><circle cx="530" cy="420" r="1.5"/><circle cx="628" cy="420" r="1.5"/><circle cx="726" cy="420" r="1.5"/><circle cx="824" cy="420" r="1.5"/><circle cx="922" cy="420" r="1.5"/><circle cx="1020" cy="420" r="1.5"/><circle cx="40" cy="690" r="1.5"/><circle cx="138" cy="690" r="1.5"/><circle cx="236" cy="690" r="1.5"/><circle cx="334" cy="690" r="1.5"/><circle cx="432" cy="690" r="1.5"/><circle cx="530" cy="690" r="1.5"/><circle cx="628" cy="690" r="1.5"/><circle cx="726" cy="690" r="1.5"/><circle cx="824" cy="690" r="1.5"/><circle cx="922" cy="690" r="1.5"/><circle cx="1020" cy="690" r="1.5"/><circle cx="40" cy="960" r="1.5"/><circle cx="138" cy="960" r="1.5"/><circle cx="236" cy="960" r="1.5"/><circle cx="334" cy="960" r="1.5"/><circle cx="432" cy="960" r="1.5"/><circle cx="530" cy="960" r="1.5"/><circle cx="628" cy="960" r="1.5"/><circle cx="726" cy="960" r="1.5"/><circle cx="824" cy="960" r="1.5"/><circle cx="922" cy="960" r="1.5"/><circle cx="1020" cy="960" r="1.5"/></g>
+  <text x="72" y="76" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#101B35" text-anchor="start" letter-spacing="4"><tspan x="72" dy="0">MARTECH IN PRACTICE</tspan></text>
+  <rect x="72" y="99" width="70" height="7" rx="3" fill="#F6C945" stroke="none" stroke-width="0" />
+  <text x="1008" y="76" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#101B35" text-anchor="end" ><tspan x="1008" dy="0">09 / 10</tspan></text>
+  
+  <text x="72" y="220" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800" fill="#101B35" text-anchor="start" ><tspan x="72" dy="0">The smarter answer</tspan><tspan x="72" dy="72">is often all three.</tspan></text>
+  <text x="76" y="370" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="76" dy="0">You don't have to choose between total custom and total off-the-shelf.</tspan></text>
+  <rect x="72" y="470" width="278" height="390" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <rect x="72" y="470" width="278" height="78" rx="22" fill="#F6C945" stroke="none" stroke-width="0" />
+  <text x="211" y="520" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#101B35" text-anchor="middle" ><tspan x="211" dy="0">BUILD</tspan></text>
+  <text x="104" y="620" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="104" dy="0">Unique logic</tspan></text>
+  <text x="104" y="674" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="104" dy="0">Custom workflow</tspan><tspan x="104" dy="32">or decision layer</tspan><tspan x="104" dy="32">that creates value.</tspan></text>
+  <rect x="401" y="470" width="278" height="390" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <rect x="401" y="470" width="278" height="78" rx="22" fill="#101B35" stroke="none" stroke-width="0" />
+  <text x="540" y="520" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF" text-anchor="middle" ><tspan x="540" dy="0">BUY</tspan></text>
+  <text x="433" y="620" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="433" dy="0">Proven core</tspan></text>
+  <text x="433" y="674" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="433" dy="0">Use a mature</tspan><tspan x="433" dy="32">platform for</tspan><tspan x="433" dy="32">common needs.</tspan></text>
+  <rect x="730" y="470" width="278" height="390" rx="22" fill="#FFFCF5" stroke="#D8D2C5" stroke-width="2" />
+  <rect x="730" y="470" width="278" height="78" rx="22" fill="#2864D8" stroke="none" stroke-width="0" />
+  <text x="869" y="520" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#FFFFFF" text-anchor="middle" ><tspan x="869" dy="0">INTEGRATE</tspan></text>
+  <text x="762" y="620" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#101B35" text-anchor="start" ><tspan x="762" dy="0">Connected data</tspan></text>
+  <text x="762" y="674" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#626B7B" text-anchor="start" ><tspan x="762" dy="0">Make systems</tspan><tspan x="762" dy="32">share context and</tspan><tspan x="762" dy="32">reduce manual work.</tspan></text>
+  <text x="375" y="670" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#F6C945" text-anchor="middle" ><tspan x="375" dy="0">+</tspan></text>
+  <text x="704" y="670" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#F6C945" text-anchor="middle" ><tspan x="704" dy="0">+</tspan></text>
+  <rect x="72" y="930" width="936" height="220" rx="22" fill="#D7E0F5" stroke="none" stroke-width="0" />
+  <text x="108" y="995" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" fill="#101B35" text-anchor="start" ><tspan x="108" dy="0">Own your differentiator, not every dependency.</tspan></text>
+  <text x="108" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#101B35" text-anchor="start" ><tspan x="108" dy="0">APIs, automation and clear data ownership often deliver</tspan></text>
+  <text x="108" y="1088" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#101B35" text-anchor="start" ><tspan x="108" dy="0">more value than rebuilding the whole platform.</tspan></text>
+
+  <line x1="72" y1="1260" x2="1008" y2="1260" stroke="#D8D2C5" stroke-width="2"  stroke-linecap="round"/>
+  <text x="72" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#626B7B" text-anchor="start" letter-spacing="1"><tspan x="72" dy="0">ANANTH SRIDEV  •  MARKETING TECHNOLOGY</tspan></text>
+  <text x="1008" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#101B35" text-anchor="end" letter-spacing="1"><tspan x="1008" dy="0">BUILD  /  BUY  /  INTEGRATE</tspan></text>
+  </svg>
